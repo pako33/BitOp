@@ -4,7 +4,7 @@ def show_result():
         if operation == 'q':
             break
         elif operation == '1':
-            num = input("Enter a 32-bit integer: ") 
+            num = input("Enter a 32-bit integer: ") #display bits of a 32bit integer by 
             try:
                 num = int(num)
                 for i in range(31, -1, -1): #iterate through the bits
