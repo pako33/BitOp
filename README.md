@@ -1,1 +1,0 @@
-Perform bit operations on 32bit integers
